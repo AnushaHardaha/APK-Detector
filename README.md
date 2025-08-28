@@ -34,9 +34,7 @@ Cryptera is a security tool to detect fake banking APKs. Built with HTML, CSS (f
    ```bash
    git clone https://github.com/AnushaHardaha/APK-Detector.git
     cd APK-Detector
-   ```**Clone the repository**
-   ```bash
- 
+  
    ```
 
 2. **Install dependencies**
