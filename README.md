@@ -32,7 +32,7 @@ Cryptera is a security tool to detect fake banking APKs. Built with HTML, CSS (f
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/gourichouksey/cybershield.git
+   git clone https://github.com/AnushaHardaha/cybershield.git
    cd cybershield
    ```
 
